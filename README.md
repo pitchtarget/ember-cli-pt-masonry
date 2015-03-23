@@ -1,5 +1,9 @@
 # Ember-cli-pt-masonry
 
+Masonry.js component for Ember CLI apps
+
+---
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
