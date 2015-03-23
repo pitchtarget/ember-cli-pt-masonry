@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-pt-masonry",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Masonry.js component for Ember CLI apps",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.com/pitchtarget/ember-cli-pt-masonry",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -33,7 +33,11 @@
     "ember-export-application-global": "^1.0.2"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "masonryjs",
+    "masonry",
+    "grid",
+    "layout"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
